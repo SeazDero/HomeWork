@@ -1,0 +1,7 @@
+C:\Users\besso\source\repos\HwL6Task3\HwL6Task1\bin\Debug\HwL6Task1.exe.config
+C:\Users\besso\source\repos\HwL6Task3\HwL6Task1\bin\Debug\HwL6Task1.exe
+C:\Users\besso\source\repos\HwL6Task3\HwL6Task1\bin\Debug\HwL6Task1.pdb
+C:\Users\besso\source\repos\HwL6Task3\HwL6Task1\obj\Debug\HwL6Task1.csprojAssemblyReference.cache
+C:\Users\besso\source\repos\HwL6Task3\HwL6Task1\obj\Debug\HwL6Task1.csproj.CoreCompileInputs.cache
+C:\Users\besso\source\repos\HwL6Task3\HwL6Task1\obj\Debug\HwL6Task1.exe
+C:\Users\besso\source\repos\HwL6Task3\HwL6Task1\obj\Debug\HwL6Task1.pdb
