@@ -1,0 +1,7 @@
+C:\Users\besso\source\repos\Hw4Task1\Hw4Task1\bin\Debug\Hw4Task1.exe.config
+C:\Users\besso\source\repos\Hw4Task1\Hw4Task1\bin\Debug\Hw4Task1.exe
+C:\Users\besso\source\repos\Hw4Task1\Hw4Task1\bin\Debug\Hw4Task1.pdb
+C:\Users\besso\source\repos\Hw4Task1\Hw4Task1\obj\Debug\Hw4Task1.csprojAssemblyReference.cache
+C:\Users\besso\source\repos\Hw4Task1\Hw4Task1\obj\Debug\Hw4Task1.csproj.CoreCompileInputs.cache
+C:\Users\besso\source\repos\Hw4Task1\Hw4Task1\obj\Debug\Hw4Task1.exe
+C:\Users\besso\source\repos\Hw4Task1\Hw4Task1\obj\Debug\Hw4Task1.pdb

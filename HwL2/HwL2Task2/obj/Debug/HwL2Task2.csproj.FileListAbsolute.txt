@@ -1,0 +1,6 @@
+C:\Users\besso\source\Hw\HwL2\HwL2Task2\bin\Debug\HwL2Task2.exe.config
+C:\Users\besso\source\Hw\HwL2\HwL2Task2\bin\Debug\HwL2Task2.exe
+C:\Users\besso\source\Hw\HwL2\HwL2Task2\bin\Debug\HwL2Task2.pdb
+C:\Users\besso\source\Hw\HwL2\HwL2Task2\obj\Debug\HwL2Task2.csproj.CoreCompileInputs.cache
+C:\Users\besso\source\Hw\HwL2\HwL2Task2\obj\Debug\HwL2Task2.exe
+C:\Users\besso\source\Hw\HwL2\HwL2Task2\obj\Debug\HwL2Task2.pdb

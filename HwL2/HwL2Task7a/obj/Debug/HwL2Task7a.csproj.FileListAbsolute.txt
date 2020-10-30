@@ -1,0 +1,7 @@
+C:\Users\besso\source\Hw\HwL2\HwL2Task7a\bin\Debug\HwL2Task7a.exe.config
+C:\Users\besso\source\Hw\HwL2\HwL2Task7a\bin\Debug\HwL2Task7a.exe
+C:\Users\besso\source\Hw\HwL2\HwL2Task7a\bin\Debug\HwL2Task7a.pdb
+C:\Users\besso\source\Hw\HwL2\HwL2Task7a\obj\Debug\HwL2Task7a.csprojAssemblyReference.cache
+C:\Users\besso\source\Hw\HwL2\HwL2Task7a\obj\Debug\HwL2Task7a.csproj.CoreCompileInputs.cache
+C:\Users\besso\source\Hw\HwL2\HwL2Task7a\obj\Debug\HwL2Task7a.exe
+C:\Users\besso\source\Hw\HwL2\HwL2Task7a\obj\Debug\HwL2Task7a.pdb

@@ -1,0 +1,7 @@
+C:\Users\besso\source\Hw\HwL3\HwL3\bin\Debug\HwL3.exe.config
+C:\Users\besso\source\Hw\HwL3\HwL3\bin\Debug\HwL3.exe
+C:\Users\besso\source\Hw\HwL3\HwL3\bin\Debug\HwL3.pdb
+C:\Users\besso\source\Hw\HwL3\HwL3\obj\Debug\HwL3.csprojAssemblyReference.cache
+C:\Users\besso\source\Hw\HwL3\HwL3\obj\Debug\HwL3.csproj.CoreCompileInputs.cache
+C:\Users\besso\source\Hw\HwL3\HwL3\obj\Debug\HwL3.exe
+C:\Users\besso\source\Hw\HwL3\HwL3\obj\Debug\HwL3.pdb
