@@ -34,7 +34,7 @@ namespace HwL7Taskk1
         }
 
         /// <summary>Обновление формы</summary>
-        public void Updates()
+        public void Update()
         {
             lblNumber.Text = doubler.Value.ToString();
             lblStepsCount.Text = doubler.Steps.ToString();
@@ -106,7 +106,7 @@ namespace HwL7Taskk1
         private void menuCancel_Click(object sender, EventArgs e)
         {
             doubler.CheckStack();
-            Updates();
+            Update();
 
         }
     }

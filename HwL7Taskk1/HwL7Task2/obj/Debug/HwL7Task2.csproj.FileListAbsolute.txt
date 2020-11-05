@@ -1,0 +1,11 @@
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\bin\Debug\HwL7Task2.exe.config
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\bin\Debug\HwL7Task2.exe
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\bin\Debug\HwL7Task2.pdb
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\obj\Debug\HwL7Task2.csprojAssemblyReference.cache
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\obj\Debug\HwL7Task2.Form1.resources
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\obj\Debug\HwL7Task2.Form2.resources
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\obj\Debug\HwL7Task2.Properties.Resources.resources
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\obj\Debug\HwL7Task2.csproj.GenerateResource.cache
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\obj\Debug\HwL7Task2.csproj.CoreCompileInputs.cache
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\obj\Debug\HwL7Task2.exe
+C:\Users\besso\source\repos\HwL7Taskk1\HwL7Task2\obj\Debug\HwL7Task2.pdb
