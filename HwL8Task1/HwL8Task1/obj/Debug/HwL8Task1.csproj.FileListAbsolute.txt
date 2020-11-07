@@ -1,0 +1,7 @@
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task1\bin\Debug\HwL8Task1.exe.config
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task1\bin\Debug\HwL8Task1.exe
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task1\bin\Debug\HwL8Task1.pdb
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task1\obj\Debug\HwL8Task1.csprojAssemblyReference.cache
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task1\obj\Debug\HwL8Task1.csproj.CoreCompileInputs.cache
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task1\obj\Debug\HwL8Task1.exe
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task1\obj\Debug\HwL8Task1.pdb

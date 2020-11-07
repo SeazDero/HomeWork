@@ -1,0 +1,10 @@
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\obj\Debug\HwL8Task3.csprojAssemblyReference.cache
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\obj\Debug\HwL8Task3.Properties.Resources.resources
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\obj\Debug\HwL8Task3.csproj.GenerateResource.cache
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\obj\Debug\HwL8Task3.csproj.CoreCompileInputs.cache
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\bin\Debug\HwL8Task3.exe.config
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\bin\Debug\HwL8Task3.exe
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\bin\Debug\HwL8Task3.pdb
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\obj\Debug\HwL8Task3.exe
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\obj\Debug\HwL8Task3.pdb
+C:\Users\besso\source\repos\HwL8Task1\HwL8Task3\obj\Debug\HwL8Task3.Form1.resources
